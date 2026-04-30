@@ -20,7 +20,8 @@ A = np.array([
 inv=np.linalg.inv(A)
 print(inv)
 ## Output:
-![Uploading image.png…]()
+![Uploading 3.png…]()
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
